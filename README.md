@@ -2,7 +2,7 @@
 
 This project explores different control schemes that are formulated, implemented, and simulated.
 
-[Project Page](https://jamesakl.com/control-simulations/)
+[**Project Page**](https://jamesakl.com/control-simulations/)
 
 These specific control schemes are studied:
 
